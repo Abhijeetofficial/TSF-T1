@@ -19,6 +19,6 @@ other free hosting provider. Check in code in gitlab.
 
 The web app is hosted on 000webhost!!
 
-The web can also be run on localhost using XAMPP.
+The web app can also be run on localhost using XAMPP.
 
 Website link- https://bascbnking-systm.000webhostapp.com/
